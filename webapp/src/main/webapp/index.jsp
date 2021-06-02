@@ -1,3 +1,3 @@
 <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
 <h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
-<h2> Glad to see you here - from lalit - after modifying ansible book adding ginni as well</h2>
+<h2> Glad to see you here - from lalit - after modifying ansible book adding ginni as well - pari as well</h2>
