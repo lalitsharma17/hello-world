@@ -3,4 +3,4 @@
 <h2> AUTOMATIC PIPELINE - at 4.15pm-  fetchign image from latest</h2>
 
 
-<h2> AUTOMATIC PIPELINE - at 4.15pm-  fetchign image from latest</h2>
+<h2> AUTOMATIC PIPELINE - at 4.15pm-  fetchign image from dlatest</h2>
